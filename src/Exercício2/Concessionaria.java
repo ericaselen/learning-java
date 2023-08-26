@@ -16,12 +16,15 @@ public class Concessionaria {
 
         pc = Double.parseDouble(pr);
 
-        e.marca = mr;
-        e.modelo = md;
-        e.cor = cr;
-        e.preco = pc;
+        e.setMarca(mr);
+        e.setModelo(md);
+        e.setCor(cr);
+        e.setPreco(pc); 
 
-        e.Informa_Automovel();
+        System.out.println("Marca: " + e.getMarca());
+        System.out.println("Modelo: " + e.getModelo());
+        System.out.println("Cor: " + e.getCor());
+        System.out.println("Preço: " + e.getPreco());
     }
     
 }
