@@ -8,7 +8,7 @@
 | Exercício3 | Abstração com cadastro em livraria                                            |
 | Exercício4 | Aprendendo encapsulamento e metódo set com números                            |  
 | Exercício5 | Aprendendo metódos set e get com cadastro de dados                            |  
-
+| Exercício6 | Aprendendo metódo construtor                                                  |  
 
 
 
