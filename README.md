@@ -10,5 +10,6 @@
 | Exercício5 | Aprendendo metódos set e get com cadastro de dados                            |  
 | Exercício6 | Aprendendo metódo construtor                                                  |  
 | Exercício7 | Aprendendo metódo construtor II                                               |
+| Exercício8 | Interface de POO com método construtor                                        |
 
 
